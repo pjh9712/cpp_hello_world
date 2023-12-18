@@ -7,11 +7,11 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_VERBOSE_MAKEFILE ON)
 
 project(
-  CPP_PROJECT_TEMPLATE
+  CPP_HELLO_WORLD
   LANGUAGES CXX
   VERSION 1.0.0
-  DESCRIPTION "C++ Project Template"
-  HOMEPAGE_URL "https://github.com/pjh9712/cpp_project_template"
+  DESCRIPTION ""
+  HOMEPAGE_URL "https://github.com/pjh9712/cpp_hello_world"
 )
 message(STATUS)
 message(STATUS "Started all process in ${PROJECT_NAME} CMakeLists.txt.")
